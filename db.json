@@ -1,22 +1,94 @@
 {
-  "employees": [
+  "questions": [
     {
       "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "question": "Q1. Which keyword do you use to annouce constants in Swift?",
+      "answerA": "A. Var",
+      "answerB": "B. Let",
+      "answerC": "C. Con",
+      "answerD": "D. Value",
+      "correct_answer": "B. Let"
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
+      "question": "Q2. How many types of integers are in Swift?",
+      "answerA": "A. 1",
+      "answerB": "B. 2",
+      "answerC": "C. 3",
+      "answerD": "D. 4",
+      "correct_answer": "B. 2"
     },
     {
       "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
-    }
+      "question": "Q3. Swift integers are presented in all of these bit forms except which of the following?",
+      "answerA": "A. 24",
+      "answerB": "B. 16",
+      "answerC": "C. 32",
+      "answerD": "D. 64",
+      "correct_answer": "A. 24"
+    },
+    {
+      "id": 4,
+      "question": "Q4. What type of integer is denoted by Int8?",
+      "answerA": "A. Open",
+      "answerB": "B. Signed",
+      "answerC": "C. Unsigned",
+      "answerD": "D. Close",
+      "correct_answer": "B. Signed"
+    },
+    {
+      "id": 5,
+      "question": "Q5. What are numbers with fractional components called in Swift?",
+      "answerA": "A. Sinking numbers",
+      "answerB": "B. Decimals",
+      "answerC": "C. Floating numbers",
+      "answerD": "D. Fractional numbers",
+      "correct_answer": "C. Floating numbers"
+    },
+    {
+      "id": 6,
+      "question": "Q6. How do you write comments Swift?",
+      "answerA": "A. */ and */",
+      "answerB": "B. /* and /*",
+      "answerC": "C. /* and */",
+      "answerD": "D. */ and /*",
+      "correct_answer": "C. /* and */"
+    },
+    {
+      "id": 7,
+      "question": "Q7. What are the collection types in Swift?",
+      "answerA": "A. Dictionary and array",
+      "answerB": "B. Array and library",
+      "answerC": "C. Dictionary and library",
+      "answerD": "D. Library, dictionary and array",
+      "correct_answer": "A. Dictionary and array"
+    },
+    {
+      "id": 8,
+      "question": "Q8. Which of these is not a control transfer statement in Swift?",
+      "answerA": "A. Break",
+      "answerB": "B. Continue",
+      "answerC": "C. Change",
+      "answerD": "D. Return",
+      "correct_answer": "C. Change"
+    },
+    {
+      "id": 9,
+      "question": "Q9. What does the question mark (?) indicate? A particular is ...",
+      "answerA": "A. Necessary",
+      "answerB": "B. Missing",
+      "answerC": "C. Optional",
+      "answerD": "D. Changed",
+      "correct_answer": "C. Optional"
+    },
+    {
+      "id": 10,
+      "question": "Q10. What should you use to provide a default value for a variable in Swift?",
+      "answerA": "A. ?",
+      "answerB": "B. ??",
+      "answerC": "C. &",
+      "answerD": "D. &&",
+      "correct_answer": "B. ??"
+    },
   ]
 }
